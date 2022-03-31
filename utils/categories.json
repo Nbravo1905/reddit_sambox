@@ -1,0 +1,22 @@
+[
+  {
+    "name": "New",
+    "value": "new",
+    "active": true
+  },
+  {
+    "name": "Top",
+    "value": "top",
+    "active": false
+  },
+  {
+    "name": "Hot",
+    "value": "hot",
+    "active": false
+  },
+  {
+    "name": "Polemica",
+    "value": "controversial",
+    "active": false
+  }
+]
